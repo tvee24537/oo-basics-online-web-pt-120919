@@ -9,5 +9,5 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-    puts
+    puts 'says that the shoe has been repaired'
 end
